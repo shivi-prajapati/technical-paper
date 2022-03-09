@@ -47,9 +47,9 @@ Snowflake is a cloud data warehouse that brings simplicity without sacrificing f
 Snowflake Inc. was founded in July 2012 in San Mateo, California, by three data warehousing experts Benoit Dageville, Thierry Cruanes, and Marcin Żukowski. Dageville and Cruanes previously worked as data architects at Oracle Corporation; Żukowski was a co-founder of the Dutch start-up Vectorwise. The company's first CEO was Mike Speiser, a venture capitalist at Sutter Hill Ventures.
 
 ## Three main components are:- ##
-    1. ### _Cloud Services_ ###-Snowflake uses ANSI SQL for cloud services empowering users to optimize their data and manage their infrastructure. Snowflake handles the security and encryption of stored data.
-    2. ### _Query processing _###-Query execution performed in the processing layer. Snowflake processes query using the virtual warehouse. Each virtual warehouse is an independent compute cluster that does not share resources with other virtual warehouses.
-    3. ### _Database storage_ ###- When data is loaded into Snowflake, Snowflake reorganizes that data into its internal optimized, compressed, columnar format. Snowflake stores this optimized data in cloud storage.
+    1. ### _Cloud Services_ ### - Snowflake uses ANSI SQL for cloud services empowering users to optimize their data and manage their infrastructure. Snowflake handles the security and encryption of stored data.
+    2. ### _Query processing _### - Query execution performed in the processing layer. Snowflake processes query using the virtual warehouse. Each virtual warehouse is an independent compute cluster that does not share resources with other virtual warehouses.
+    3. ### _Database storage_ ### - When data is loaded into Snowflake, Snowflake reorganizes that data into its internal optimized, compressed, columnar format. Snowflake stores this optimized data in cloud storage.
 
 
 ## Benefits of using Snowflake:- ##
